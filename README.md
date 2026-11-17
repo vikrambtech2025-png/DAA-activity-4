@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikrambtech2025-png/leetcode-race/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/vikrambtech2025-png/leetcode-race/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -50,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikrambtech2025-png/leetcode-race/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/vikrambtech2025-png/leetcode-race/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikrambtech2025-png/leetcode-race/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vikrambtech2025-png/leetcode-race/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
